@@ -1,0 +1,8 @@
+﻿  VrsCaster.cpp
+d:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\memory(1924): warning C4003: 类函数宏的调用“lock”参数不足
+d:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\memory(1936): warning C4003: 类函数宏的调用“lock”参数不足
+d:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.16.27023\include\memory(1993): warning C4003: 类函数宏的调用“lock”参数不足
+d:\source\repos\bamboo_simple_win\rtcaster\include\rtklib\rtklib_fun.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\source\repos\bamboo_simple_win\rtcaster\src\rtcaster\vrscaster.cpp(12): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\source\repos\bamboo_simple_win\rtcaster\src\rtcaster\vrscaster.cpp(35): warning C4101: “msg”: 未引用的局部变量
+  RtCaster.vcxproj -> D:\source\repos\bamboo_simple_win\x64\Debug\RtCaster.exe

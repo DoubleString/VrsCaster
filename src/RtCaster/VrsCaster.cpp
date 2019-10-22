@@ -29,6 +29,8 @@ void VrsCaster::m_openCaster() {
 	tracestat("*  function: 1) normal caster functions");
 	tracestat("*            2) vrs supported based on self defined protocol");
 	tracestat("----------------------------------------------------------------------------*/");
+
+
 }
 void VrsCaster::m_loopProcess() {
 	int nbyte, msgid, ret, i,laststat = 0;

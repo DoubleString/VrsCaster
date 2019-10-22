@@ -1,0 +1,10 @@
+{
+	"caster":{
+	"log":["D:\\log.txt","0.5"],
+	"sourcetable":"D:\\sourcetable",
+	"casterc-path":"root:123@:2101",
+	"casters-path":":123@:2102",
+	"caster-vrslist":["root:123456@58.49.58.150:6035/RTCM_GGB"],
+	"caster-vrsinfo":["STR;RTCM_GGB;VRS;RTCM 3.2;1;2;GPS+GLO+BDS;SGNET;CHN;30.52;114.31;1;1;BAMBOO;None;B;N;0;"]
+	}
+}

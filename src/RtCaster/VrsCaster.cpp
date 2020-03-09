@@ -82,5 +82,10 @@ void VrsCaster::m_loopProcess() {
 			strwrite(&ntripc_c, (unsigned char*)buff, nbyte);
 		}
 		/* tracing state every 30s */
+		if(time(NULL) - laststat > 0){
+			laststat = laststat + 30;
+			strsetsrctbl(&ntripc_c, dly->ptr_sourcetable);
+			strsetsrctbl(&ntripc_s, dly->ptr_sourcetable);
+		}
 	}
 }
